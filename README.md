@@ -2,12 +2,13 @@
 
 ## Project setup
 ```
-npm install
+npm install todo
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run serve to run vue server
+npm run backend to run json backend
 ```
 
 ### Compiles and minifies for production
